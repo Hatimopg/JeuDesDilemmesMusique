@@ -1,7 +1,7 @@
-# 🎧 sybauu.com – Le Dilemme Musical
+# 🎧 sybauu.com – Le Dilemme
 **Hatim**
 
-Bienvenue sur le dépôt de mon site personnel : **sybauu.com** — un jeu de dilemme musical où chaque choix compte. Le concept est simple : on vous propose **deux extraits sonores**, vous devez choisir celui que vous préférez. Un duel à mort (pacifique) entre vos morceaux préférés.
+Bienvenue sur le dépôt de mon site personnel : **sybauu.com** — un jeu de dilemme où chaque choix compte. Le concept est simple : on vous propose **deux extraits sonores**, vous devez choisir celui que vous préférez. Un duel à mort (pacifique) entre vos morceaux préférés.
 
 ## 🎯 Le but du projet
 Ce site n’est pas qu’un simple jeu. C’est avant tout un **terrain d’expérimentation** où je pousse mes compétences en **CSS** : animations, responsive, micro-interactions, et design épuré mais percutant. L’autre défi ? **Aller vite**. J’ai construit ce site en utilisant **l’IA** comme accélérateur de développement — du prototypage à la mise en production. L’objectif : prouver qu’on peut livrer une expérience utilisateur soignée sans perdre des semaines en configuration.
